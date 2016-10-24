@@ -8,4 +8,4 @@ Branch dev changes.
 Branch master changes.
 Branch dev --no-ff merge Fast Forward.
 Git stash.
-Fix bug user1.
+
