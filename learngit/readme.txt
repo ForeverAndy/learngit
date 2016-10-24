@@ -6,3 +6,4 @@ git push origin master first.
 Creating a new branch dev is quick.
 Branch dev changes.
 Branch master changes.
+Branch dev --no-ff merge Fast Forward.
